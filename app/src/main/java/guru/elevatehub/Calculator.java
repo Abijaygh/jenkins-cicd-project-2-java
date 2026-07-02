@@ -14,3 +14,8 @@ public class Calculator {
         return a - b;
     }
 }
+
+pubblic int multiply(int a, int b) {
+        return a * b;
+    }
+}
